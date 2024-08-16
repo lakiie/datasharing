@@ -1,5 +1,5 @@
 {
-"wycl6k" : "( {cash} ( market cap > 5000 and 600 weeks ago close != 0 and( {cash} ( ( {cash} ( latest close <= latest ema( latest high , 200 ) * 1.02 and latest close >= latest ema( latest low , 200 ) * 0.98 ) ) or( {cash} ( weekly close <= weekly ema( weekly high , 600 ) * 1.05 and weekly close >= weekly ema( weekly low , 600 ) * 0.95 ) ) ) ) ) ) ",
+"wycl6k" : "( {cash} ( market cap > 5000 and 600 weeks ago close != 0 and( {cash} ( ( {cash} ( weekly close <= weekly ema( weekly high , 600 ) * 1.05 and weekly close >= weekly ema( weekly low , 600 ) * 0.95 ) ) ) ) ) ) ",
 
 "dywypv" : "( {cash} ( ( {cash} ( market cap > 5000 ) ) and( {cash} ( ( {cash} ( 2 days ago rsi( 14 ) <= 3 days ago min( 90 , latest rsi( 14 ) ) and 3 days ago close > 2 days ago close and 2 days ago rsi( 14 ) <= 1 day ago rsi( 14 ) and 1 day ago rsi( 14 ) <= latest rsi( 14 ) and weekly close >= weekly ema( weekly low , 600 ) * 0.95 ) ) or( {cash} ( 2 weeks ago rsi( 14 ) <= 3 weeks ago min( 90 , weekly rsi( 14 ) ) and 3 weeks ago close > 2 weeks ago close and 2 weeks ago rsi( 14 ) <= 1 week ago rsi( 14 ) and 1 week ago rsi( 14 ) <= weekly rsi( 14 ) and weekly close >= weekly ema( weekly low , 600 ) * 0.95 ) ) ) ) ) )",
 
