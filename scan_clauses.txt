@@ -12,6 +12,6 @@
 "dycl2k" : "( {cash} ( market cap > 5000 and( {cash} ( ( {cash} ( 200 days ago close != 0 and latest close <= latest ema( latest high , 200 ) * 1.02 and latest close >= latest ema( latest low , 200 ) * 0.98 ) ) ) ) ) )",
 "dycl6k" : "( {cash} ( market cap > 5000 and( {cash} ( ( {cash} ( 600 days ago close != 0 and latest close <= latest ema( latest high , 600 ) and latest close >= latest ema( latest low , 600 ) ) ) ) ) ) )",
 "wycl2k" : "( {cash} ( market cap > 5000 and( {cash} ( ( {cash} ( 200 weeks ago close != 0 and weekly close <= weekly ema( weekly high , 200 ) and weekly close >= weekly ema( weekly low , 200 ) ) ) ) ) ) )",
-"wycl6k" : "( {cash} ( market cap > 5000 and( {cash} ( ( {cash} ( 600 weeks ago close != 0 and weekly close <= weekly ema( weekly high , 600 ) * 1.05 and weekly close >= weekly ema( weekly low , 600 ) * 0.95 ) ) ) ) ) )"}
+"wycl6k" : "( {cash} ( market cap > 5000 and( {cash} ( ( {cash} ( 600 weeks ago close != 0 and weekly close <= weekly ema( weekly high , 600 ) * 1.05 and weekly close >= weekly ema( weekly low , 600 ) * 0.95 ) ) ) ) ) )"
 
 }
