@@ -1,431 +1,201 @@
-SYMBOL,NAME,result_date,Purpose
-ADLINE,Adline Chem Lab Ltd,15-Jul-24,
-ANGELONE,Angel One Ltd,15-Jul-24,
-ATAM,Atam Valves Ltd,15-Jul-24,
-BENARAS,BENARES HOTELS LTD.,15-Jul-24,
-DAVANGERE,Davangere Sugar Company Ltd,15-Jul-24,
-DEN,Den Networks Ltd,15-Jul-24,
-GANESHHOUC,GANESH HOUSING CORPORATION LTD.-$,15-Jul-24,
-HATSUN,HATSUN AGRO PRODUCT LTD.,15-Jul-24,
-HDFCAMC,HDFC Asset Management Company Ltd,15-Jul-24,
-HDFCLIFE,HDFC Life Insurance Company Ltd,15-Jul-24,
-JIOFIN,Jio Financial Services Ltd,15-Jul-24,
-JIYAECO,Jiya Eco-Products Ltd,15-Jul-24,
-KBCGLOBAL,KBC Global Ltd,15-Jul-24,
-KELLTONTEC,Kellton Tech Solutions Ltd.,15-Jul-24,
-MAHABANK,BANK OF MAHARASHTRA,15-Jul-24,
-MEAPL,Modern Engineering And Projects Ltd,15-Jul-24,
-MONARCH,Monarch Networth Capital Ltd,15-Jul-24,
-MRP,MRP Agro Ltd,15-Jul-24,
-OASISEC,OASIS SECURITIES LTD.,15-Jul-24,
-POPEES,Popees Cares Ltd,15-Jul-24,
-RAJOOENG,RAJOO ENGINEERS LTD.-$,15-Jul-24,
-RFLL,Rita Finance and Leasing Ltd,15-Jul-24,
-RRFIN,RR FINANCIAL CONSULTANTS LTD.,15-Jul-24,
-SCANPGEOM,SCANPOINT GEOMATICS LTD.,15-Jul-24,
-SCPL,Sheetal Cool Products Ltd,15-Jul-24,
-SHILINDORE,Sayaji Hotels (Indore) Ltd,15-Jul-24,
-SPICEJET,SPICEJET LTD.,15-Jul-24,
-STYRENIX,Styrenix Performance Materials Ltd,15-Jul-24,
-SYBLY,SYBLY INDUSTRIES LTD.-$,15-Jul-24,
-TAHMARENT,Tahmar Enterprises Ltd,15-Jul-24,
-TIERRA,Tierra Agrotech Ltd,15-Jul-24,
-TOKYOFIN,TOKYO FINANCE LTD.,15-Jul-24,
-TRINITYLEA,TRINITY LEAGUE INDIA LTD.,15-Jul-24,
-UDAICEMENT,UDAIPUR CEMENT WORKS LTD.,15-Jul-24,
-VAGHANI,VAGHANI TECHNO-BUILD LTD.,15-Jul-24,
-VHLTD,VICEROY HOTELS LTD.,15-Jul-24,
-ALOKINDS,ALOK INDUSTRIES LTD.,16-Jul-24,
-ATFL,AGRO TECH FOODS LTD.,16-Jul-24,
-ATISHAY,Atishay Ltd,16-Jul-24,
-BAJAJ-AUTO,BAJAJ AUTO LTD.,16-Jul-24,
-BIRLAMONEY,ADITYA BIRLA MONEY LTD.-$,16-Jul-24,
-BMW,BMW Industries Ltd,16-Jul-24,
-CENTURYTEX,CENTURY TEXTILES & INDUSTRIES LTD.,16-Jul-24,
-CRISIL,CRISIL LTD.,16-Jul-24,
-CTL,Capital Trade Links Ltd,16-Jul-24,
-DBCORP,D B Corp Ltd,16-Jul-24,
-DECANBRG,DECCAN BEARINGS LTD.,16-Jul-24,
-DEEDEV,Dee Development Engineers Ltd,16-Jul-24,
-EIMCOELECO,EIMCO ELECON (INDIA) LTD.,16-Jul-24,
-GOLKUNDIA,GOLKUNDA DIAMONDS & JEWELLERY LTD.,16-Jul-24,
-HSCL,Himadri Speciality Chemical Ltd,16-Jul-24,
-IGCIL,IGC Industries Ltd,16-Jul-24,
-ITHL,INTERNATIONAL TRAVEL HOUSE LTD.-$,16-Jul-24,
-JUBLINGREA,Jubilant Ingrevia Ltd,16-Jul-24,
-JUSTDIAL,JUST DIAL LTD.,16-Jul-24,
-LTF,L&T Finance Ltd,16-Jul-24,
-MORARKFI,MORARKA FINANCE LTD.,16-Jul-24,
-NETWORK18,NETWORK18 MEDIA & INVESTMENTS LTD.,16-Jul-24,
-SHRMFGC,SHREE MANUFACTURING CO.LTD.,16-Jul-24,
-SOFCOM,Sofcom Systems Ltd,16-Jul-24,
-TV18BRDCST,TV18 BROADCAST LTD.,16-Jul-24,
-ADARSHPL,ADARSH PLANT PROTECT LTD.,17-Jul-24,
-ARTSONEN,ARTSON ENGINEERING LTD.,17-Jul-24,
-ASIANPAINT,ASIAN PAINTS LTD.,17-Jul-24,
-ELECON,ELECON ENGINEERING CO.LTD.,17-Jul-24,
-FRANKLININD,Franklin Industries Ltd,17-Jul-24,
-HATHWAY,Hathway Cable & Datacom Ltd,17-Jul-24,
-INTEGRAEN,INTEGRA ENGINEERING INDIA LTD.,17-Jul-24,
-LOTUSCHO,LOTUS CHOCOLATE CO.LTD.,17-Jul-24,
-LTIM,LTIMindtree Ltd,17-Jul-24,
-NATIONSTD,NATIONAL STANDARD (INDIA) LTD.,17-Jul-24,
-PARSHVA,Parshva Enterprises Ltd,17-Jul-24,
-RATNAVEER,Ratnaveer Precision Engineering Ltd,17-Jul-24,
-REGENCY,Regency Fincorp Ltd,17-Jul-24,
-RETAIL,JHS Svendgaard Retail Ventures Ltd,17-Jul-24,
-ROJL,RO Jewels Ltd,17-Jul-24,
-SEL,Sanathnagar Enterprises Limited,17-Jul-24,
-SHISHIND,Shish Industries Ltd,17-Jul-24,
-SURANASOL,Surana Solar Limited,17-Jul-24,
-VANTABIO,Vanta Bioscience Ltd,17-Jul-24,
-VIMTALABS,VIMTA LABS LTD.-$,17-Jul-24,
-VIVIDM,Vivid Mercantile Ltd,17-Jul-24,
-ACL,ANDHRA CEMENTS LTD.,18-Jul-24,
-AGOL,Ashapuri Gold Ornament Ltd,18-Jul-24,
-ASHISHPO,ASHISH POLYPLAST LTD.,18-Jul-24,
-ATHARVENT,ATHARV ENTERPRISES LTD.,18-Jul-24,
-B2BSOFT,B2B SOFTWARE TECHNOLOGIES LTD.,18-Jul-24,
-BBL,BHARAT BIJLEE LTD.-$,18-Jul-24,
-CEATLTD,CEAT LTD.,18-Jul-24,
-CENTRALBK,CENTRAL BANK OF INDIA,18-Jul-24,
-CHOICEIN,CHOICE INTERNATIONAL LTD.,18-Jul-24,
-CIEINDIA,CIE Automotive India Ltd,18-Jul-24,
-DALBHARAT,Dalmia Bharat Ltd,18-Jul-24,
-DPABHUSHAN,D.P. Abhushan Ltd,18-Jul-24,
-GOPAL,Gopal Snacks Ltd,18-Jul-24,
-GRINDWELL,GRINDWELL NORTON LTD.-$,18-Jul-24,
-HAVELLS,HAVELLS INDIA LTD.,18-Jul-24,
-INDBNK,IND BANK HOUSING LTD.,18-Jul-24,
-INFY,INFOSYS LTD.,18-Jul-24,
-INTLCOMBQ,INTERNATIONAL COMBUSTION (INDIA) LTD.,18-Jul-24,
-INVENTURE,INVENTURE GROWTH & SECURITIES LTD.,18-Jul-24,
-JSWINFRA,JSW Infrastructure Ltd,18-Jul-24,
-LONTE,LONGVIEW TEA COMPANY LTD.,18-Jul-24,
-LTTS,L&T Technology Services Ltd,18-Jul-24,
-MASTEK,MASTEK LTD.,18-Jul-24,
-MENONBE,MENON BEARINGS LTD.-$,18-Jul-24,
-METSL,Maestros Electronics & Telecommunications Systems Ltd,18-Jul-24,
-NEWGEN,Newgen Software Technologies Ltd,18-Jul-24,
-PERSISTENT,PERSISTENT SYSTEMS LTD.,18-Jul-24,
-POLYCAB,Polycab India Ltd,18-Jul-24,
-PREMEXPLN,PREMIER EXPLOSIVES LTD.,18-Jul-24,
-RALLIS,RALLIS INDIA LTD.,18-Jul-24,
-RIIL,RELIANCE INDUSTRIAL INFRASTRUCTURE LTD.,18-Jul-24,
-ROSELABS,ROSELABS FINANCE LTD.,18-Jul-24,
-SAGCEM,SAGAR CEMENTS LTD.-$,18-Jul-24,
-SELLWIN,Sellwin Traders Ltd,18-Jul-24,
-SHOPERSTOP,SHOPPERS STOP LTD.,18-Jul-24,
-SOUTHBANK,SOUTH INDIAN BANK LTD.,18-Jul-24,
-SWARAJENG,SWARAJ ENGINES LTD.,18-Jul-24,
-SWSOLAR,Sterling and Wilson Renewable Energy Ltd,18-Jul-24,
-TANLA,Tanla Platforms Ltd,18-Jul-24,
-TATACOMM,TATA COMMUNICATIONS LTD.,18-Jul-24,
-TATATECH,Tata Technologies Ltd,18-Jul-24,
-VRAJ,Vraj Iron And Steel Ltd,18-Jul-24,
-AETHER,Aether Industries Ltd,19-Jul-24,
-ATUL,ATUL LTD.,19-Jul-24,
-AURUM,Aurum PropTech Ltd,19-Jul-24,
-AVANTEL,AVANTEL LTD.,19-Jul-24,
-BLAL,BEML Land Assets Ltd,19-Jul-24,
-BLUEDART,BLUE DART EXPRESS LTD.,19-Jul-24,
-BPCL,BHARAT PETROLEUM CORPORATION LTD.,19-Jul-24,
-CREDITACC,CreditAccess Grameen Ltd,19-Jul-24,
-CSL,Continental Securities Ltd,19-Jul-24,
-GLFL,GUJARAT LEASE FINANCING LTD.,19-Jul-24,
-HAWAENG,Hawa Engineers Ltd,19-Jul-24,
-ICICIGI,ICICI Lombard General Insurance Company Ltd,19-Jul-24,
-INDBANK,INDBANK MERCHANT BANKING SERVICES LTD.,19-Jul-24,
-JSWSTEEL,JSW STEEL LTD.,19-Jul-24,
-JUBLPHARMA,Jubilant Pharmova Ltd,19-Jul-24,
-KABRAEXTRU,KABRA EXTRUSIONTECHNIK LTD.,19-Jul-24,
-KRISHNA,Krishna Ventures Limited,19-Jul-24,
-KSOLVES,Ksolves India Ltd,19-Jul-24,
-MAHEPC,Mahindra EPC Irrigation Ltd,19-Jul-24,
-MARUTISE,MARUTI SECURITIES LTD.,19-Jul-24,
-NAM-INDIA,Nippon Life India Asset Management Ltd,19-Jul-24,
-OBEROIRLTY,OBEROI REALTY LTD.,19-Jul-24,
-ONWARDTEC,ONWARD TECHNOLOGIES LTD.,19-Jul-24,
-ORISSAMINE,ORISSA MINERALS DEVELOPMENT COMPANY LTD.,19-Jul-24,
-PATANJALI,Patanjali Foods Ltd,19-Jul-24,
-PAYTM,One 97 Communications Ltd,19-Jul-24,
-PONNIERODE,PONNI SUGARS (ERODE) LTD.,19-Jul-24,
-PVRINOX,PVR Inox Ltd,19-Jul-24,
-RELIANCE,RELIANCE INDUSTRIES LTD.,19-Jul-24,
-ROUTE,Route Mobile Ltd,19-Jul-24,
-RPGLIFE,RPG LIFE SCIENCES LTD.,19-Jul-24,
-SPENTEX,SPENTEX INDUSTRIES LTD.,19-Jul-24,
-SPLPETRO,SUPREME PETROCHEM LTD.,19-Jul-24,
-STANLEY,Stanley Lifestyles Ltd,19-Jul-24,
-SUMMITSEC,SUMMIT SECURITIES LTD.,19-Jul-24,
-SURAJLTD,SURAJ LTD.-$,19-Jul-24,
-SWOEF,SWOJAS ENERGY FOODS LTD.,19-Jul-24,
-TANFACIND,TANFAC INDUSTRIES LTD.-$,19-Jul-24,
-TEJASNET,Tejas Networks Ltd,19-Jul-24,
-TREEHOUSE,TREE HOUSE EDUCATION & ACCESSORIES LTD.,19-Jul-24,
-TRIL,TRANSFORMERS AND RECTIFIERS (INDIA) LTD.,19-Jul-24,
-ULTRACEMCO,ULTRATECH CEMENT LTD.,19-Jul-24,
-UNIONBANK,UNION BANK OF INDIA,19-Jul-24,
-VIRINCHI,Virinchi Ltd,19-Jul-24,
-WIPRO,WIPRO LTD.,19-Jul-24,
-AARTISURF,Aarti Surfactants Ltd,20-Jul-24,
-ARIHANTCAP,ARIHANT CAPITAL MARKETS LTD.,20-Jul-24,
-CANFINHOME,CAN FIN HOMES LTD.,20-Jul-24,
-GAGAN,GAGAN GASES LTD.,20-Jul-24,
-GRAVITA,GRAVITA INDIA LTD.,20-Jul-24,
-HDFCBANK,HDFC Bank Ltd,20-Jul-24,
-HIGHENE,HIGH ENERGY BATTERIES (INDIA) LTD.,20-Jul-24,
-JASCH,JASCH INDUSTRIES LTD.,20-Jul-24,
-JGTL,Jasch Gauging Technologies Ltd,20-Jul-24,
-JKCEMENT,J.K.CEMENT LTD.,20-Jul-24,
-KIRLPNU,KIRLOSKAR PNEUMATIC CO.LTD.,20-Jul-24,
-KOTAKBANK,KOTAK MAHINDRA BANK LTD.,20-Jul-24,
-MONGIPA,MOONGIPA CAPITAL FINANCE LTD.,20-Jul-24,
-NETWEB,Netweb Technologies India Ltd,20-Jul-24,
-POONAWALLA,Poonawalla Fincorp Ltd,20-Jul-24,
-RBLBANK,RBL Bank Ltd,20-Jul-24,
-ROSSARI,Rossari Biotech Ltd,20-Jul-24,
-SESHAPAPER,SESHASAYEE PAPER & BOARDS LTD.,20-Jul-24,
-SMIFS,SMIFS CAPITAL MARKETS LTD.,20-Jul-24,
-SPORTKING,Sportking India Ltd,20-Jul-24,
-SWASTIKA,SWASTIKA INVESTMART LTD.,20-Jul-24,
-TRANSCHEM,TRANSCHEM LTD.-$,20-Jul-24,
-TRILIANCE,Triliance Polymers Ltd,20-Jul-24,
-YESBANK,YES BANK LTD.,20-Jul-24,
-ZENITHHE,ZENITH HEALTH CARE LTD.,20-Jul-24,
-COCHINM,COCHIN MINERALS & RUTILE LTD.-$,22-Jul-24,
-COFORGE,Coforge Ltd,22-Jul-24,
-CYIENTDLM,Cyient DLM Ltd,22-Jul-24,
-DGCONTENT,Digicontent Ltd,22-Jul-24,
-DODLA,Dodla Dairy Ltd,22-Jul-24,
-INDOCRED,INDO CREDIT CAPITAL LTD.,22-Jul-24,
-JSFB,Jana Small Finance Bank Ltd,22-Jul-24,
-MAHLOG,Mahindra Logistics Ltd,22-Jul-24,
-MAHSCOOTER,MAHARASHTRA SCOOTERS LTD.,22-Jul-24,
-MRPL,MANGALORE REFINERY & PETROCHEMICALS LTD.,22-Jul-24,
-POCL,PONDY OXIDES & CHEMICALS LTD.,22-Jul-24,
-RBL,RANE BRAKE LINING LTD.,22-Jul-24,
-SUPREMEIND,SUPREME INDUSTRIES LTD.,22-Jul-24,
-TRISHAKT,Trishakti Industries Ltd,22-Jul-24,
-WENDT,WENDT (INDIA) LTD.,22-Jul-24,
-ZENSARTECH,ZENSAR TECHNOLOGIES LTD.,22-Jul-24,
-ZFCVINDIA,ZF Commercial Vehicle Control Systems India Ltd,22-Jul-24,
-7TEC,SAVEN TECHNOLOGIES LTD.,23-Jul-24,
-ASIIL,ASI Industries Ltd,23-Jul-24,
-BAJFINANCE,Bajaj Finance Limited,23-Jul-24,
-DCMSHRIRAM,DCM Shriram Limited,23-Jul-24,
-HERITGFOOD,Heritage Foods Limited,23-Jul-24,
-HINDUNILVR,HINDUSTAN UNILEVER LTD.,23-Jul-24,
-ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,23-Jul-24,
-ICRA,ICRA LTD.,23-Jul-24,
-INDOCO,INDOCO REMEDIES LTD.,23-Jul-24,
-ISEC,ICICI Securities Ltd,23-Jul-24,
-M&MFIN,MAHINDRA & MAHINDRA FINANCIAL SERVICES LTD.,23-Jul-24,
-RANEENGINE,RANE ENGINE VALVE LTD.,23-Jul-24,
-SCHAEFFLER,Schaeffler India Ltd,23-Jul-24,
-SSWL,STEEL STRIPS WHEELS LTD.-$,23-Jul-24,
-SURANAT&P,Surana Telecom And Power Limited,23-Jul-24,
-TORNTPHARM,TORRENT PHARMACEUTICALS LTD.,23-Jul-24,
-UNITDSPR,UNITED SPIRITS LTD.,23-Jul-24,
-AURIONPRO,AURIONPRO SOLUTIONS LTD.,24-Jul-24,
-AXISBANK,AXIS BANK LTD.,24-Jul-24,
-BAJAJFINSV,BAJAJ FINSERV LTD.,24-Jul-24,
-BAJAJHLDNG,BAJAJ HOLDINGS & INVESTMENT LTD.,24-Jul-24,
-BIKAJI,Bikaji Foods International Ltd,24-Jul-24,
-BUTTERFLY,Butterfly Gandhimathi Appliances Ltd,24-Jul-24,
-CRAFTSMAN,Craftsman Automation Ltd,24-Jul-24,
-HFCL,HFCL Ltd,24-Jul-24,
-KPITTECH,KPIT Technologies Ltd,24-Jul-24,
-KTKBANK,KARNATAKA BANK LTD.,24-Jul-24,
-LT,LARSEN & TOUBRO LTD.,24-Jul-24,
-MAHLIFE,MAHINDRA LIFESPACE DEVELOPERS LTD.,24-Jul-24,
-PETRONET,PETRONET LNG LTD.,24-Jul-24,
-PNBGILTS,PNB GILTS LTD.,24-Jul-24,
-RML,RANE (MADRAS) LTD.,24-Jul-24,
-SBILIFE,SBI Life Insurance Company Ltd,24-Jul-24,
-SONACOMS,Sona BLW Precision Forgings Ltd,24-Jul-24,
-SYNGENE,Syngene International Ltd,24-Jul-24,
-TIPSINDLTD,TIPS INDUSTRIES LTD.,24-Jul-24,
-TIRUMALCHM,THIRUMALAI CHEMICALS LTD.,24-Jul-24,
-TRIDENT,TRIDENT LTD.,24-Jul-24,
-VGUARD,V-GUARD INDUSTRIES LTD.,24-Jul-24,
-CHANDRAP,CHANDRA PRABHU INTERNATIONAL LTD.-$,25-Jul-24,
-CYIENT,Cyient Limited,25-Jul-24,
-FOSECOIND,FOSECO INDIA LTD.,25-Jul-24,
-GANGOTRI,GANGOTRI TEXTILES LTD.,25-Jul-24,
-GODIGIT,Go Digit General Insurance Ltd,25-Jul-24,
-JYOTHYLAB,Jyothy Labs Ltd,25-Jul-24,
-MHRIL,MAHINDRA HOLIDAYS & RESORTS INDIA LTD.,25-Jul-24,
-MPHASIS,MPHASIS LTD.,25-Jul-24,
-NESTLEIND,NESTLE INDIA LTD.,25-Jul-24,
-RAMCOCEM,The Ramco Cements Limited,25-Jul-24,
-TECHM,TECH MAHINDRA LTD.,25-Jul-24,
-UBL,UNITED BREWERIES LTD.-$,25-Jul-24,
-UJJIVANSFB,Ujjivan Small Finance Bank Ltd,25-Jul-24,
-ULTRAMAR,ULTRAMARINE & PIGMENTS LTD.-$,25-Jul-24,
-UTIAMC,UTI Asset Management Company Ltd,25-Jul-24,
-VBDESAI,V.B.DESAI FINANCIAL SERVICES LTD.,25-Jul-24,
-VESUVIUS,VESUVIUS INDIA LTD.,25-Jul-24,
-WESTLIFE,Westlife Foodworld Ltd,25-Jul-24,
-ACCELYA,Accelya Solutions India Ltd,26-Jul-24,
-APCOTEXIND,APCOTEX INDUSTRIES LTD.,26-Jul-24,
-CHOLAFIN,Cholamandalam Investment and Finance Company Ltd,26-Jul-24,
-CIPLA,CIPLA LTD.,26-Jul-24,
-KFINTECH,KFin Technologies Ltd,26-Jul-24,
-LATENTVIEW,Latent View Analytics Ltd,26-Jul-24,
-NELCAST,NELCAST LTD.,26-Jul-24,
-SAINTGOBAIN,SAINT-GOBAIN SEKURIT INDIA LTD.,26-Jul-24,
-SANOFI,Sanofi India Ltd,26-Jul-24,
-SHREDIGCEM,SHREE DIGVIJAY CEMENT CO.LTD.-$,26-Jul-24,
-SKYLMILAR,SKYLINE MILLARS LTD.,26-Jul-24,
-TRANSCOR,TRANSCORP INTERNATIONAL LTD.,26-Jul-24,
-TTKPRESTIG,TTK PRESTIGE LTD.,26-Jul-24,
-YASTF,YASH TRADING & FINANCE LTD.,26-Jul-24,
-ANANTRAJ,Anant Raj Limited-$,27-Jul-24,
-DRREDDY,DR.REDDY'S LABORATORIES LTD.,27-Jul-24,
-ICICIBANK,ICICI BANK LTD.,27-Jul-24,
-IDFCFIRSTB,IDFC First Bank Ltd,27-Jul-24,
-MCX,MULTI COMMODITY EXCHANGE OF INDIA LTD.,27-Jul-24,
-SBFC,SBFC Finance Ltd,27-Jul-24,
-SUMICHEM,Sumitomo Chemical India Ltd,27-Jul-24,
-TCI,TRANSPORT CORPORATION OF INDIA LTD.,27-Jul-24,
-BEL,BHARAT ELECTRONICS LTD.,29-Jul-24,
-CCCL,CONSOLIDATED CONSTRUCTION CONSORTIUM LTD.,29-Jul-24,
-CHEMOPH,CHEMO PHARMA LABORATORIES LTD.,29-Jul-24,
-CSBBANK,CSB Bank Ltd,29-Jul-24,
-HINDPETRO,HINDUSTAN PETROLEUM CORPORATION LTD.,29-Jul-24,
-KANSAINER,KANSAI NEROLAC PAINTS LTD.,29-Jul-24,
-KEI,KEI INDUSTRIES LTD.,29-Jul-24,
-STOVEKRAFT,Stove Kraft Ltd,29-Jul-24,
-WONDERLA,Wonderla Holidays Ltd,29-Jul-24,
-CASTROLIND,CASTROL INDIA LTD.,30-Jul-24,
-CORDSCABLE,CORDS CABLE INDUSTRIES LTD.,30-Jul-24,
-EMUDHRA,eMudhra Ltd,30-Jul-24,
-EXIDEIND,EXIDE INDUSTRIES LTD.,30-Jul-24,
-FSL,FIRSTSOURCE SOLUTIONS LTD.,30-Jul-24,
-INDUSTOWER,Indus Towers Ltd,30-Jul-24,
-JCHAC,Johnson Controls-Hitachi Air Conditioning India Ltd,30-Jul-24,
-NAVINFLUOR,Navin Fluorine International Limited-$,30-Jul-24,
-STARHEALTH,Star Health and Allied Insurance Company Ltd,30-Jul-24,
-SUNRINV,SUNRISE INDUSTRIAL TRADERS LTD.,30-Jul-24,
-TULASEEBIOE,TULASEE BIO-ETHANOL LTD.,30-Jul-24,
-COCKERILL,John Cockerill India Ltd-$,31-Jul-24,
-CROMPTON,Crompton Greaves Consumer Electricals Ltd,31-Jul-24,
-ELGIEQUIP,ELGI EQUIPMENTS LTD.,31-Jul-24,
-ENIL,ENTERTAINMENT NETWORK (INDIA) LTD.,31-Jul-24,
-LAXMIMACH,LAKSHMI MACHINE WORKS LTD.,31-Jul-24,
-LGBBROSLTD,L.G.BALAKRISHNAN & BROS.LTD.,31-Jul-24,
-M&M,MAHINDRA & MAHINDRA LTD.,31-Jul-24,
-MARUTI,MARUTI SUZUKI INDIA LTD.,31-Jul-24,
-PRICOLLTD,Pricol Ltd,31-Jul-24,
-TEAMLEASE,TeamLease Services Ltd,31-Jul-24,
-TEEAI,TEESTA AGRO INDUSTRIES LTD.,31-Jul-24,
-TIMEX,TIMEX GROUP INDIA LTD.-$,31-Jul-24,
-UGROCAP,Ugro Capital Ltd,31-Jul-24,
-ABCAPITAL,Aditya Birla Capital Ltd,1-Aug-24,
-AKZOINDIA,Akzo Nobel India Limited,1-Aug-24,
-ALKYLAMINE,ALKYL AMINES CHEMICALS LTD.-$,1-Aug-24,
-APTUS,Aptus Value Housing Finance India Ltd,1-Aug-24,
-CLEAN,Clean Science and Technology Ltd,1-Aug-24,
-DABUR,DABUR INDIA LTD.,1-Aug-24,
-EMAMILTD,EMAMI LTD.-$,1-Aug-24,
-GHCL,GHCL LTD.,1-Aug-24,
-GHCLTEXTIL,GHCL Textiles Ltd,1-Aug-24,
-IXIGO,Le Travenues Technology Ltd,1-Aug-24,
-KALYANKJIL,Kalyan Jewellers India Ltd,1-Aug-24,
-KCP,K.C.P.LTD.,1-Aug-24,
-RAJPALAYAM,RAJAPALAYAM MILLS LTD.-$,1-Aug-24,
-TATAMOTORS,TATA MOTORS LTD.,1-Aug-24,
-TATAMTRDVR,Tata Motors  Ltd - DVR,1-Aug-24,
-TVTODAY,TV TODAY NETWORK LTD.,1-Aug-24,
-VAIBHAVGBL,Vaibhav Global Ltd,1-Aug-24,
-CAMS,Computer Age Management Services Ltd,2-Aug-24,
-IPL,India Pesticides Ltd,2-Aug-24,
-KARTKIN,KARTIK INVESTMENTS TRUST LTD.,2-Aug-24,
-MEDPLUS,Medplus Health Services Ltd,2-Aug-24,
-RANEHOLDIN,RANE HOLDINGS LTD.,2-Aug-24,
-SUPER,SUPER SALES INDIA LTD.-$,2-Aug-24,
-TTKHLTCARE,TTK HEALTHCARE LTD.-$,2-Aug-24,
-ARE&M,Amara Raja Energy & Mobility Ltd,3-Aug-24,
-DEVYANI,Devyani International Ltd,5-Aug-24,
-HAWKINCOOK,HAWKINS COOKERS LTD.-$,5-Aug-24,
-MARICO,MARICO LTD.,5-Aug-24,
-MSUMI,Motherson Sumi Wiring India Ltd,5-Aug-24,
-MUKANDLTD,MUKAND LTD.,5-Aug-24,
-TBZ,TRIBHOVANDAS BHIMJI ZAVERI LTD.,5-Aug-24,
-BLUESTARCO,BLUE STAR LTD.,6-Aug-24,
-BOSCHLTD,BOSCH LTD.,6-Aug-24,
-CUMMINSIND,CUMMINS INDIA LTD.,6-Aug-24,
-DLINKINDIA,D-Link (India) Ltd,6-Aug-24,
-GUJGASLTD,Gujarat Gas Ltd,6-Aug-24,
-INDIGOPNTS,Indigo Paints Ltd,6-Aug-24,
-MANINFRA,MAN INFRACONSTRUCTION LTD.,6-Aug-24,
-RAIN,Rain Industries Ltd,6-Aug-24,
-SHREECEM,SHREE CEMENT LTD.,6-Aug-24,
-TVSMOTOR,TVS MOTOR COMPANY LTD.,6-Aug-24,
-AADHARHFC,Aadhar Housing Finance Ltd,7-Aug-24,
-BASF,BASF INDIA LTD.,7-Aug-24,
-ESABINDIA,ESAB INDIA LTD.,7-Aug-24,
-LGBFORGE,LGB FORGE LTD.,7-Aug-24,
-ABB,ABB India Limited,8-Aug-24,
-ADCON,Adcon Capital Services Ltd,8-Aug-24,
-CONCOR,CONTAINER CORPORATION OF INDIA LTD.,8-Aug-24,
-GSPL,GUJARAT STATE PETRONET LTD.,8-Aug-24,
-HBLPOWER,HBL POWER SYSTEMS LTD.-$,8-Aug-24,
-MINDTECK,MINDTECK (INDIA) LTD.,8-Aug-24,
-TIMKEN,TIMKEN INDIA LTD.,8-Aug-24,
-TVSHLTD,TVS Holdings Ltd,8-Aug-24,
-BERGEPAINT,BERGER PAINTS INDIA LTD.,9-Aug-24,
-CENTRUM,CENTRUM CAPITAL LTD.,9-Aug-24,
-CHOLAHLDNG,Cholamandalam Financial Holdings Ltd,9-Aug-24,
-ENTRINT,ENTERPRISE INTERNATIONAL LTD.,9-Aug-24,
-ICSL,Integrated Capital Services Ltd,9-Aug-24,
-INDSILHYD,INDSIL HYDRO POWER AND MANGANESE LTD.-$,9-Aug-24,
-INTEGHIT,INTEGRATED HITECH LTD.,9-Aug-24,
-JUBLFOOD,Jubilant FoodWorks Ltd,9-Aug-24,
-KOVAI,KOVAI MEDICAL CENTER & HOSPITAL LTD.,9-Aug-24,
-LAKSELEC,LAKSHMI ELECTRICAL CONTROL SYSTEMS LTD.,9-Aug-24,
-LAKSHMIMIL,LAKSHMI MILLS COMPANY LTD.-$,9-Aug-24,
-LOYALTEX,LOYAL TEXTILE MILLS LTD.-$,9-Aug-24,
-NCLRESE,NCL RESEARCH & FINANCIAL SERVICES LTD.,9-Aug-24,
-RAJTV,RAJ TELEVISION NETWORK LTD.,9-Aug-24,
-SUNCLAY,Sundaram-Clayton Ltd,9-Aug-24,
-VOLLF,VOLTAIRE LEASING & FINANCE LTD.,9-Aug-24,
-GLOBALCA,GLOBAL CAPITAL MARKETS LTD.,12-Aug-24,
-IPRINGLTD,IP RINGS LTD.-$,12-Aug-24,
-JACKSON,Jackson Investments Ltd,12-Aug-24,
-JMDVL,JMD Ventures Ltd,12-Aug-24,
-NIRLON,NIRLON LTD.,12-Aug-24,
-PSITINFRA,PS IT Infrastructure & Services Limited,12-Aug-24,
-SONALAD,SONAL ADHESIVES LTD.,12-Aug-24,
-ADCINDIA,ADC India Communications Limited-$,13-Aug-24,
-BKV,BKV INDUSTRIES LTD.,13-Aug-24,
-ENDURANCE,Endurance Technologies Ltd,13-Aug-24,
-GCMSECU,GCM Securities Ltd,13-Aug-24,
-GREENCREST,Greencrest Financial Services Limited,13-Aug-24,
-HINDALCO,HINDALCO INDUSTRIES LTD.,13-Aug-24,
-MFSL,Max Financial Services Ltd,13-Aug-24,
-MTNL,MAHANAGAR TELEPHONE NIGAM LTD.,13-Aug-24,
-PRIMECAPM,PRIME CAPITAL MARKET LTD.,13-Aug-24,
-SAMRATPH,SAMRAT PHARMACHEM LTD.-$,13-Aug-24,
-SHAHISHIP,Shahi Shipping Ltd-$,13-Aug-24,
-TCIEXP,TCI Express Ltd,13-Aug-24,
-TUNITEX,TUNI TEXTILE MILLS LTD.,13-Aug-24,
-VBIND,V B Industries Ltd,13-Aug-24,
-DEL,Dhanashree Electronics Ltd,14-Aug-24,
-SHKARTP,SHREE KARTHIK PAPERS LTD.,14-Aug-24,
-PGHL,Procter & Gamble Health Ltd,21-Aug-24,
-GILLETTE,GILLETTE INDIA LTD.,28-Aug-24,
-PGHH,PROCTER & GAMBLE HYGIENE & HEALTH CARE LTD.,29-Aug-24,
-CRISIL,CRISIL Limited,15-Jul-24,Financial Results/Dividend
-E2E,E2E Networks Limited,17-Jul-24,Financial Results
-KARURVYSYA,Karur Vysya Bank Limited,18-Jul-24,Financial Results
-SHRENIK,Shrenik Limited,18-Jul-24,Financial Results
-MOTISONS,Motisons Jewellers Limited,20-Jul-24,Financial Results
-SHAKTIPUMP,Shakti Pumps (India) Limited,20-Jul-24,Financial Results/Other business matters
-DHARSUGAR,Dharani Sugars & Chemicals Limited,22-Jul-24,Financial Results
-NITINSPIN,Nitin Spinners Limited,22-Jul-24,Financial Results
-PKTEA,The Peria Karamalai Tea & Produce Company Limited,22-Jul-24,Financial Results
-NEXTMEDIA,Next Mediaworks Limited,23-Jul-24,Financial Results
-ZENSARTECH,Zensar Technologies Limited,23-Jul-24,Financial Results
-EMBASSY,Embassy Office Parks REIT,25-Jul-24,Financial Results/Dividend
+SYMBOL,COMPANY,DATE,PURPOSE
+AHLWEST,ASIAN HOTELS (WEST) LTD.,7-Oct-24,
+CMICABLES,CMI LTD.,7-Oct-24,
+GVBL,Genomic Valley Biotech Ltd,7-Oct-24,
+HFIL,Himalaya Food International Ltd,7-Oct-24,
+OROSMITHS,OROSIL SMITHS INDIA LTD.-$,7-Oct-24,
+PADAMCO,PADAM COTTON YARNS LTD.,7-Oct-24,
+DARSHANORNA,Darshan Orna Ltd,8-Oct-24,
+EMERALD,Emerald Finance Ltd,8-Oct-24,
+GGL,Gautam Gems Ltd,8-Oct-24,
+HAWAENG,Hawa Engineers Ltd,8-Oct-24,
+INTEGSW,INTEGRA SWITCHGEAR LTD.,8-Oct-24,
+NAVKARCORP,Navkar Corporation Ltd,8-Oct-24,
+TARIL,Transformers And Rectifiers (India) Limited,8-Oct-24,Financial Results/Other business matters
+VLEGOV,VL E-Governance & IT Solutions Limited,8-Oct-24,Financial Results
+GTPL,GTPL Hathway Limited,9-Oct-24,Financial Results
+KRETTOSYS,Kretto Syscon Ltd,9-Oct-24,
+LOTUSCHO,LOTUS CHOCOLATE CO.LTD.,9-Oct-24,
+NAVKARCORP,Navkar Corporation Limited,9-Oct-24,Financial Results
+RHETAN,Rhetan TMT Ltd,9-Oct-24,
+ROJL,RO Jewels Ltd,9-Oct-24,
+VIVIDM,Vivid Mercantile Ltd,9-Oct-24,
+WCIL,Western Carriers (India) Limited,9-Oct-24,Financial Results
+ANANDRATHI,Anand Rathi Wealth Limited,10-Oct-24,Financial Results/Dividend
+ARKADE,Arkade Developers Limited,10-Oct-24,Financial Results
+ASHOKAMET,Ashoka Metcast Limited,10-Oct-24,Financial Results/Other business matters
+DEN,Den Networks Limited,10-Oct-24,Financial Results
+DIL,Debock Industries Limited,10-Oct-24,Financial Results
+GMBREW,GM Breweries Limited,10-Oct-24,Financial Results
+HATHWAYB,HATHWAY BHAWANI CABLETEL & DATACOM LTD.,10-Oct-24,
+INFOMEDIA,Infomedia Press Limited,10-Oct-24,Financial Results
+IREDA,Indian Renewable Energy Development Agency Limited,10-Oct-24,Financial Results
+NBFOOT,NB FOOTWEAR LTD.,10-Oct-24,
+RNAVAL,Reliance Naval and Engineering Ltd,10-Oct-24,
+TATAELXSI,Tata Elxsi Limited,10-Oct-24,Financial Results
+TCS,Tata Consultancy Services Limited,10-Oct-24,Financial Results/Dividend
+ATISHAY,Atishay Ltd,11-Oct-24,
+HATHWAY,Hathway Cable & Datacom Limited,11-Oct-24,Financial Results
+JAGSONFI,JAGSONPAL FINANCE & LEASING LTD.,11-Oct-24,
+JUSTDIAL,Just Dial Limited,11-Oct-24,Financial Results
+PLASTIBLEN,Plastiblends India Limited,11-Oct-24,Financial Results
+PVVINFRA,PVV Infra Ltd,11-Oct-24,
+RIIL,Reliance Industrial Infrastructure Limited,11-Oct-24,Financial Results
+SANGINITA,Sanginita Chemicals Limited,11-Oct-24,Financial Results
+UNIVARTS,UNIVERSAL ARTS LTD.,11-Oct-24,
+DMART,Avenue Supermarts Limited,12-Oct-24,Financial Results
+NETWORK18,Network18 Media & Investments Limited,12-Oct-24,Financial Results
+ANGELONE,Angel One Limited,14-Oct-24,Financial Results
+GOPAL,Gopal Snacks Limited,14-Oct-24,Financial Results/Dividend
+HCLTECH,HCL TECHNOLOGIES LTD.,14-Oct-24,
+PREMIERPOL,Premier Polyfilm Limited,14-Oct-24,Financial Results/Stock Split
+WEALTH,Wealth First Portfolio Managers Limited,14-Oct-24,Financial Results/Dividend/Other business matters
+CORAGRO,COROMANDEL AGRO PRODUCTS & OILS LTD.,15-Oct-24,
+HDFCAMC,HDFC Asset Management Company Limited,15-Oct-24,Financial Results
+HDFCLIFE,HDFC Life Insurance Company Limited,15-Oct-24,Financial Results
+MRP,MRP Agro Ltd,15-Oct-24,
+SONAMLTD,SONAM LIMITED,15-Oct-24,Financial Results/Other business matters
+ACCELYA,Accelya Solutions India Limited,16-Oct-24,Financial Results
+BAJAJ-AUTO,Bajaj Auto Limited,16-Oct-24,Financial Results
+CRISIL,CRISIL Limited,16-Oct-24,Financial Results/Dividend/Other business matters
+LTTS,L&T Technology Services Limited,16-Oct-24,Financial Results/Dividend
+MPHASIS,MphasiS Limited,16-Oct-24,Financial Results
+POCL,Pondy Oxides & Chemicals Limited,16-Oct-24,Financial Results/Other business matters
+SOUTHBANK,The South Indian Bank Limited,16-Oct-24,Financial Results
+CEATLTD,CEAT Limited,17-Oct-24,Financial Results
+EIMCOELECO,Eimco Elecon (India) Limited,17-Oct-24,Financial Results
+HAVELLS,Havells India Limited,17-Oct-24,Financial Results
+INFY,Infosys Limited,17-Oct-24,Financial Results/Dividend
+KARURVYSYA,Karur Vysya Bank Limited,17-Oct-24,Financial Results
+MAHEPC,Mahindra EPC Irrigation Limited,17-Oct-24,Financial Results
+NESTLEIND,Nestle India Limited,17-Oct-24,Financial Results
+POLYCAB,Polycab India Limited,17-Oct-24,Financial Results
+WIPRO,Wipro Limited,17-Oct-24,Financial Results
+AETHER,Aether Industries Limited,18-Oct-24,Financial Results/Other business matters
+AGOL,Ashapuri Gold Ornament Ltd,18-Oct-24,
+AMAL,AMAL LTD.,18-Oct-24,
+ELECON,Elecon Engineering Company Limited,18-Oct-24,Financial Results/Dividend
+GNA,GNA Axles Limited,18-Oct-24,Financial Results
+ICICIGI,ICICI Lombard General Insurance Company Limited,18-Oct-24,Financial Results/Dividend
+IMPEXFERRO,Impex Ferro Tech Limited,18-Oct-24,Financial Results
+KSOLVES,Ksolves India Limited,18-Oct-24,Financial Results/Dividend
+LTF,L&T Finance Limited,18-Oct-24,Financial Results
+PONNIERODE,Ponni Sugars (Erode) Limited,18-Oct-24,Financial Results
+HDFCBANK,HDFC Bank Limited,19-Oct-24,Financial Results
+HIGHENE,HIGH ENERGY BATTERIES (INDIA) LTD.,19-Oct-24,
+MCX,MULTI COMMODITY EXCHANGE OF INDIA LTD.,19-Oct-24,
+SESHAPAPER,Seshasayee Paper and Boards Limited,19-Oct-24,Financial Results
+TECHM,Tech Mahindra Limited,19-Oct-24,Financial Results
+AURIONPRO,Aurionpro Solutions Limited,21-Oct-24,Financial Results
+BAJAJHFL,Bajaj Housing Finance Limited,21-Oct-24,Financial Results
+CYIENTDLM,Cyient DLM Limited,21-Oct-24,Financial Results
+JSFB,Jana Small Finance Bank Limited,21-Oct-24,Financial Results
+MAHSCOOTER,Maharashtra Scooters Limited,21-Oct-24,Financial Results
+SWARAJENG,Swaraj Engines Limited,21-Oct-24,Financial Results
+ULTRACEMCO,UltraTech Cement Limited,21-Oct-24,Financial Results
+VINYLINDIA,Vinyl Chemicals (India) Limited,21-Oct-24,Financial Results
+ASIIL,ASI Industries Ltd,22-Oct-24,
+BAJFINANCE,Bajaj Finance Limited,22-Oct-24,Financial Results
+COFORGE,Coforge Limited,22-Oct-24,Financial Results/Dividend
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,22-Oct-24,
+M&MFIN,Mahindra & Mahindra Financial Services Limited,22-Oct-24,Financial Results
+MFSL,Max Financial Services Limited,22-Oct-24,Financial Results
+PERSISTENT,Persistent Systems Limited,22-Oct-24,Financial Results/Other business matters
+UGROCAP,Ugro Capital Limited,22-Oct-24,Financial Results/Other business matters
+ZENSARTECH,Zensar Technologies Limited,22-Oct-24,Financial Results
+ASIANPAINT,Asian Paints Limited,23-Oct-24,Financial Results/Dividend
+BAJAJFINSV,Bajaj Finserv Limited,23-Oct-24,Financial Results
+BAJAJHLDNG,Bajaj Holdings & Investment Limited,23-Oct-24,Financial Results
+GARGI,PNGS Gargi Fashion Jewellery Ltd,23-Oct-24,
+KPITTECH,KPIT Technologies Limited,23-Oct-24,Financial Results
+NAVINFLUOR,Navin Fluorine International Limited,23-Oct-24,Financial Results/Dividend
+NUVOCO,Nuvoco Vistas Corporation Limited,23-Oct-24,Financial Results
+PIDILITIND,Pidilite Industries Limited,23-Oct-24,Financial Results
+RANEENGINE,Rane Engine Valve Limited,23-Oct-24,Financial Results
+SYNGENE,Syngene International Limited,23-Oct-24,Financial Results
+APCOTEXIND,Apcotex Industries Limited,24-Oct-24,Financial Results
+BIKAJI,Bikaji Foods International Limited,24-Oct-24,Financial Results
+CASTROLIND,Castrol India Limited,24-Oct-24,Financial Results
+CIEINDIA,CIE Automotive India Limited,24-Oct-24,Financial Results
+CSBBANK,CSB Bank Limited,24-Oct-24,Financial Results
+CYIENT,Cyient Limited,24-Oct-24,Financial Results
+MAXIND,Max India Limited,24-Oct-24,Financial Results
+NAM-INDIA,Nippon Life India Asset Management Limited,24-Oct-24,Financial Results/Dividend
+RML,Rane (Madras) Limited,24-Oct-24,Financial Results
+TCI,Transport Corporation of India Limited,24-Oct-24,Financial Results
+TIMEX,TIMEX GROUP INDIA LTD.-$,24-Oct-24,
+TRUSTWAVE,Trustwave Securities Ltd,24-Oct-24,
+UBL,United Breweries Limited,24-Oct-24,Financial Results
+ATUL,Atul Limited,25-Oct-24,Financial Results
+CHOLAFIN,Cholamandalam Investment and Finance Company Limited,25-Oct-24,Financial Results
+JMFINANCIL,JM Financial Limited,25-Oct-24,Financial Results
+JSWSTEEL,JSW Steel Limited,25-Oct-24,Financial Results
+MAHLIFE,Mahindra Lifespace Developers Limited,25-Oct-24,Financial Results
+MAXESTATES,Max Estates Limited,25-Oct-24,Financial Results
+MHRIL,Mahindra Holidays & Resorts India Limited,25-Oct-24,Financial Results
+NOVARTIND,NOVARTIS INDIA LTD.,25-Oct-24,
+POONAWALLA,Poonawalla Fincorp Limited,25-Oct-24,Financial Results
+RBL,Rane Brake Lining Limited,25-Oct-24,Financial Results
+SIMPLXMIL,SIMPLEX MILLS COMPANY LTD.,25-Oct-24,
+SIMPLXPAP,SIMPLEX PAPERS LTD.,25-Oct-24,
+UTIAMC,UTI Asset Management Company Limited,25-Oct-24,Financial Results/Other business matters
+ICICIBANK,ICICI Bank Limited,26-Oct-24,Financial Results
+IDFCFIRSTB,IDFC First Bank Limited,26-Oct-24,Financial Results
+JKCEMENT,JK Cement Limited,26-Oct-24,Financial Results
+SBFC,SBFC Finance Limited,26-Oct-24,Financial Results
+YESBANK,Yes Bank Limited,26-Oct-24,Financial Results
+ANANTRAJ,Anant Raj Limited,28-Oct-24,Financial Results
+CAMS,Computer Age Management Services Limited,28-Oct-24,Financial Results/Dividend
+GILLETTE,Gillette India Limited,28-Oct-24,Financial Results
+LAXMIMACH,Lakshmi Machine Works Limited,28-Oct-24,Financial Results
+LGBBROSLTD,LG Balakrishnan & Bros Limited,28-Oct-24,Financial Results
+SIMPLXREA,SIMPLEX REALTY LTD.,28-Oct-24,
+TRANSCOR,TRANSCORP INTERNATIONAL LTD.,28-Oct-24,
+TVTODAY,TV Today Network Limited,28-Oct-24,Financial Results
+VESUVIUS,Vesuvius India Limited,28-Oct-24,Financial Results
+CCCL,Consolidated Construction Consortium Limited,45594,Financial Results
+CIPLA,Cipla Limited,45594,Financial Results
+GHCL,GHCL Limited,45594,Financial Results
+GHCLTEXTIL,GHCL Textiles Limited,45594,Financial Results
+HONAUT,Honeywell Automation India Limited,45594,Financial Results
+MARICO,Marico Limited,45594,Financial Results
+RSSOFTWARE,R. S. Software (India) Limited,45594,Financial Results/Dividend
+BIOCON,Biocon Limited,45595,Financial Results/Other business matters
+CENTRUM,Centrum Capital Limited,45595,Financial Results
+DABUR,Dabur India Limited,45595,Financial Results/Dividend
+PGHH,Procter & Gamble Hygiene and Health Care Limited,45595,Financial Results
+SUNITATOOL,Sunita Tools Ltd,45595,
+TTKPRESTIG,TTK Prestige Limited,45595,Financial Results
+ABB,ABB India Limited,45600,Financial Results
+ARE&M,Amara Raja Energy & Mobility Limited,45600,Financial Results/Dividend
+EXIDEIND,Exide Industries Limited,45600,Financial Results
+PGHL,Procter & Gamble Health Limited,45600,Financial Results
+BERGEPAINT,Berger Paints (I) Limited,45601,Financial Results
+DRREDDY,Dr. Reddy's Laboratories Limited,45601,Financial Results
+KARTKIN,KARTIK INVESTMENTS TRUST LTD.,45601,
+RANEHOLDIN,Rane Holdings Limited,45601,Financial Results
+BLUESTARCO,Blue Star Limited,45602,Financial Results
+ENDURANCE,Endurance Technologies Limited,45602,Financial Results
+GUJGASLTD,Gujarat Gas Limited,45602,Financial Results
+KANSAINER,Kansai Nerolac Paints Limited,45602,Financial Results
+RAIN,Rain Industries Limited,45602,Financial Results
+CUMMINSIND,Cummins India Limited,45603,Financial Results
+INDIGOPNTS,Indigo Paints Limited,45603,Financial Results
+BBL,Bharat Bijlee Limited,45604,Financial Results
+ESABINDIA,Esab India Limited,45604,Financial Results
+KOVAI,KOVAI MEDICAL CENTER & HOSPITAL LTD.,45604,
+LATENTVIEW,Latent View Analytics Limited,45604,Financial Results
+PANAENERG,PANASONIC ENERGY INDIA COMPANY LTD.-$,45604,
+DHPIND,DHP INDIA LTD.,45607,
+HINDALCO,Hindalco Industries Limited,45607,Financial Results
+INSECTICID,Insecticides (India) Limited,45607,Financial Results
+SHREECEM,SHREE CEMENT LIMITED,45607,Financial Results
+BASF,BASF India Limited,45608,Financial Results
+BOSCHLTD,Bosch Limited,45608,Financial Results/Other business matters
+MINDTECK,Mindteck (India) Limited,45608,Financial Results/Other business matters
+NIRLON,NIRLON LTD.,45608,
+SUVENPHAR,Suven Pharmaceuticals Limited,45608,Financial Results
+GANGOTRI,Gangotri Textiles Limited,45609,Financial Results
+ICSL,Integrated Capital Services Ltd,45610,
+SAMRATPH,SAMRAT PHARMACHEM LTD.-$,45610,
+SONALAD,SONAL ADHESIVES LTD.,45610,
